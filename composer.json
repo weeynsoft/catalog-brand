@@ -1,0 +1,46 @@
+{
+	"name": "weeynsoft/catalog-brand",
+	"description": "Weeyn Brand Module",
+	"license": "MIT",
+	"keywords": [
+		"weeyn",
+		"catalog",
+		"brand"
+	],
+	"authors": [
+		{
+			"name": "Fahrettin Aksoy",
+			"email": "fahrettin@weeyn.com",
+			"homepage": "https://weeyn.com",
+			"role": "Developer"
+		}
+	],
+	"homepage": "https://weeyn.com",
+	"support": {
+		"email": "dev@weeyn.com",
+		"issues": "https://github.com/WeeynSoft/catalog-brand/issues",
+		"source": "https://github.com/WeeynSoft/catalog-brand",
+		"wiki": "https://github.com/WeeynSoft/catalog-brand/wiki",
+		"docs": "https://docs.weeyn.com/packets/catalog-brand",
+		"forum": "https://forum.weeyn.com",
+		"chat": "https://slack.weeyn.com"
+	},
+	"type": "library",
+	"require": {
+		"php": "^8.0"
+	},
+	"require-dev": {},
+	"autoload": {
+		"psr-4": {
+			"WeeynSoft\\CatalogBrand\\": "src/"
+		}
+	},
+	"autoload-dev": {},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"scripts": {},
+	"extra": {},
+	"replace": {},
+	"suggest": {},
+	"config": {}
+}
